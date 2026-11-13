@@ -4,7 +4,9 @@
 
 ## Why I did this
 
-[Write 2–3 sentences in your own words: what drew you to this question and to neurotech. This section is yours; delete this line once you've written it.]
+Parkinson's disease and related neurodegenerative diseases such as Alzheimer's and Huntington's are still not fully understood. We know a lot about what they do: Parkinson's involves the loss of dopamine-producing neurons in a small region of the midbrain, and Alzheimer's and Huntington's each affect their own characteristic brain regions. What remains an open question is why. Why these particular cells and regions are vulnerable while neighboring ones are spared is still an active area of research.
+
+I'm a biology student moving toward neurotech and AI engineering, and I wanted to learn how to ask questions like this with real brain data. Scalp EEG cannot answer why a disease targets one region, because it cannot see the deep structures most affected in Parkinson's. It can show how brain rhythms differ between patients and healthy people and how medication changes them. This project is my first end-to-end attempt at that: cleaning real recordings, measuring brain rhythms, and testing for differences with honest statistics. I chose this dataset because every patient was recorded both ON and OFF medication, which lets a treatment question be tested within the same people.
 
 ## Question
 
