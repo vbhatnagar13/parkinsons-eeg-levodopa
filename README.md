@@ -61,7 +61,7 @@ Relative power over `C3`, `Cz`, `C4`. Mean difference is the first group minus t
 
 No beta comparison was significant after correction, and every confidence interval includes zero. Excluding `sub-pd6` and `sub-pd16` gave the same conclusion. Individual differences between people were much larger than the ON/OFF change (see the paired plot below).
 
-![Per-patient OFF vs ON](figures/paired_beta.png)
+![Per-patient OFF vs ON](paired_beta.png)
 
 ### Exploratory analysis: theta power
 
@@ -78,7 +78,7 @@ After plotting the group-average spectra, the patient curves appeared higher tha
 
 The FDR correction above covers these six tests. If all ten tests in the project (beta and theta) are corrected together, the three clearest effects (both ON − OFF comparisons and PD ON − controls at 6–8 Hz) still have q ≈ 0.02.
 
-![Group average spectra](figures/group_spectra.png)
+![Group average spectra](group_spectra.png)
 
 ## Interpretation
 
