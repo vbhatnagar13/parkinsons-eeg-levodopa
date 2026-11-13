@@ -1,7 +1,0 @@
-mne
-openneuro-py
-numpy
-scipy
-pandas
-matplotlib
-statsmodels
